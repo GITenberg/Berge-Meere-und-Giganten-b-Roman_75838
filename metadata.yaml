@@ -1,0 +1,42 @@
+_repo: Berge-Meere-und-Giganten-b-Roman_75838
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Döblin, Alfred
+    aliases:
+    - Doeblin, Alfred
+    - Poot, Linke
+    - Deblin, A.
+    - Doblin, Alfred
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '35387'
+    url: http://www.gutenberg.org/2009/agents/35387
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
+    - https://en.wikipedia.org/wiki/Alfred_D%C3%B6blin
+description: ''
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75838'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3441092
+pgterms:marc905: 20200110222337dblin
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: '  $aBerlin :$bS. Fischer, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'German fiction -- 20th century'
+- !lcsh 'Nature and civilization -- Fiction'
+- !lcsh 'Greenland -- Colonization -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Berge Meere und Giganten : $b Roman'
+url: http://www.gutenberg.org/ebooks/75838
