@@ -1,5 +1,8 @@
 _repo: Berge-Meere-und-Giganten-b-Roman_75838
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75838-h/images/cover.jpg
 creator:
   author:
     agent_name: Döblin, Alfred
@@ -16,6 +19,8 @@ creator:
     - https://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
     - https://en.wikipedia.org/wiki/Alfred_D%C3%B6blin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75838#Berge-Meere-und-Giganten-b-Roman
 gutenberg_issued: '2025-04-12'
 gutenberg_type: Text
 identifiers:
